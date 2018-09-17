@@ -21,14 +21,14 @@ namespace UploadImageToCloudinary
             {
                 File = Convert.ToBase64String(File.ReadAllBytes(fileInfo.FullName)),
                 Format = fileInfo.Extension.Replace(".jpg","jpg"),
-                Summary = fileInfo.Name,
+                Summary = fileInfo.Name.Replace(".jpg",""),
                 Type = imageType
             }).ToHashSet();
 
             UploadImages(base64Files);
         }
 
-        private static void UploadImages(ISet<AttachedFileRequest> base64Files)
+        static void UploadImages(ISet<AttachedFileRequest> base64Files)
         {
             Guid userId = FileServices.GetUserId().Result;
             string token = FileServices.GetToken(userId).Result;
