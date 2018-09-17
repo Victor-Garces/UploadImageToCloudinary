@@ -1,0 +1,11 @@
+C:\Users\Christopher\source\repos\UploadImageToCloudinary\UploadImageToCloudinary\bin\Debug\netcoreapp2.0\UploadImageToCloudinary.deps.json
+C:\Users\Christopher\source\repos\UploadImageToCloudinary\UploadImageToCloudinary\bin\Debug\netcoreapp2.0\UploadImageToCloudinary.runtimeconfig.json
+C:\Users\Christopher\source\repos\UploadImageToCloudinary\UploadImageToCloudinary\bin\Debug\netcoreapp2.0\UploadImageToCloudinary.runtimeconfig.dev.json
+C:\Users\Christopher\source\repos\UploadImageToCloudinary\UploadImageToCloudinary\bin\Debug\netcoreapp2.0\UploadImageToCloudinary.dll
+C:\Users\Christopher\source\repos\UploadImageToCloudinary\UploadImageToCloudinary\bin\Debug\netcoreapp2.0\UploadImageToCloudinary.pdb
+C:\Users\Christopher\source\repos\UploadImageToCloudinary\UploadImageToCloudinary\obj\Debug\netcoreapp2.0\UploadImageToCloudinary.csprojAssemblyReference.cache
+C:\Users\Christopher\source\repos\UploadImageToCloudinary\UploadImageToCloudinary\obj\Debug\netcoreapp2.0\UploadImageToCloudinary.csproj.CoreCompileInputs.cache
+C:\Users\Christopher\source\repos\UploadImageToCloudinary\UploadImageToCloudinary\obj\Debug\netcoreapp2.0\UploadImageToCloudinary.AssemblyInfoInputs.cache
+C:\Users\Christopher\source\repos\UploadImageToCloudinary\UploadImageToCloudinary\obj\Debug\netcoreapp2.0\UploadImageToCloudinary.AssemblyInfo.cs
+C:\Users\Christopher\source\repos\UploadImageToCloudinary\UploadImageToCloudinary\obj\Debug\netcoreapp2.0\UploadImageToCloudinary.dll
+C:\Users\Christopher\source\repos\UploadImageToCloudinary\UploadImageToCloudinary\obj\Debug\netcoreapp2.0\UploadImageToCloudinary.pdb
